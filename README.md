@@ -2,7 +2,7 @@
 
 A lightweight, serverless AI chatbot web app powered by **Google Gemini** and deployed on **Vercel**. The UI presents a clean chat interface (also branded as **Rabit**) where users can send messages and receive real-time AI responses.
 
-![Rabit AI Assistant](https://rabit-rosy.vercel.app)
+https://rabit-rosy.vercel.app/
 
 ---
 
